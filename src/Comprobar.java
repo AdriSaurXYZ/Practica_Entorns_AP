@@ -33,7 +33,7 @@ public class Comprobar {
     return sb.toString();
     }
 
-    // Método para comprobar el código de seguridad
+    // Método para comprobar el código de seguridads
     public static boolean compruebaCodigoSeguridad(String codigo) {
     Scanner scanner = new Scanner(System.in);
     boolean valido = false;
